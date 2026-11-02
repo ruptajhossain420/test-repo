@@ -1,4 +1,4 @@
-I am not so smart student
+A person.
 
 git add .
 git commit -m "Initial commit"
